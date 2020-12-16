@@ -26,4 +26,4 @@
 </tr>
 </tbody>
 
-<p align="center"><a href="https://fifsky.com">👨🏽‍💻Blog: fifsky.com</a></p>
+<p align="center"><a href="https://fifsky.com">👨🏽‍💻 Blog: fifsky.com</a></p>
